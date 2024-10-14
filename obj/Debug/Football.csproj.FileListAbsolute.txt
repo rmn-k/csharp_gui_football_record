@@ -1,0 +1,22 @@
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\Football.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\Football.Form1.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\Football.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\obj\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\Football\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\for_armz00\Football\Football\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\for_armz00\Football\Football\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\for_armz00\Football\Football\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\Football.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\Football.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\Football.Form1.resources
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\Football.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\for_armz00\Football\Football\obj\Debug\PhoneBook.pdb

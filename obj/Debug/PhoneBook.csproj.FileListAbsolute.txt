@@ -1,0 +1,44 @@
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\lotus\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit1\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit2\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.AssemblyReference.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.SuggestedBindingRedirects.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\raman\Desktop\STAGE0 ROUGH\edit3\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb

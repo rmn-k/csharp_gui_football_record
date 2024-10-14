@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <DataTable1>
+    <MatchName>Finals</MatchName>
+    <WhoVsWho>France vs England</WhoVsWho>
+    <Goals>2-0</Goals>
+    <ID>-2</ID>
+  </DataTable1>
+</AppData>
